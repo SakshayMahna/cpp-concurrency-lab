@@ -1,0 +1,7 @@
+# Build directories (Release, TSan, ASan)
+build*/
+
+# Editor and local tool settings
+.vscode/
+.claude/settings.local.json
+.DS_Store
